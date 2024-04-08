@@ -1,0 +1,34 @@
+.ProfileWindow {
+  background-color: lightblue;
+  border: 3px solid black;
+  border-radius: 5%;
+  width: 450px;
+  height: 650px;
+  position: absolute;
+  top: 60px;
+  right: 0;
+  bottom: 60px;
+  left: 0;
+  margin: auto;
+}
+
+.ProfileInput {
+  width: 300px;
+  font-size: 16px;
+  background: #F6F6f6;
+  border-radius: 8px;
+}
+
+.avatar {
+  width: 150px;
+  height: 150px;
+  background-size: cover;
+}
+
+.ConteinerBtnProfile {
+  display: flex;
+  padding-left: 20px;
+  margin-top: 20px;
+  width: 420px;
+  justify-content: space-between;
+}

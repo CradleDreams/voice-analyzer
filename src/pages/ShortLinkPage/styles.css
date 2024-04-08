@@ -1,0 +1,108 @@
+.ShortLinkWindow {
+  background-color: lightblue;
+  border: 3px solid black;
+  border-radius: 5%;
+  width: 800px;
+  height: 600px;
+  position: absolute;
+  top: 120px;
+  right: 0;
+  bottom: 60px;
+  left: 0;
+  margin: auto;
+}
+
+.logoSmall {
+  background-image: url("../../../public/image/logo.svg");
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  background-size: cover;
+  margin-left: 20px;
+}
+
+.ShortLinkTitle {
+  position: relative;
+  top: -60px;
+  left: 80px;
+  margin: 0;
+  height: 50px;
+}
+
+.ShortLinkText {
+  position: relative;
+  width: 700px;
+  top: -60px;
+  left: 80px;
+  margin: 0;
+  height: 50px;
+}
+
+.ShortLinkInput {
+  width: 600px;
+  font-size: 16px;
+  top: -50px;
+  left: 20px;
+  background: #F6F6f6;
+  border-radius: 8px;
+}
+
+.ShortLinkButtom {
+  color: white;
+  top: -50px;
+  left: 30px;
+  text-decoration: none;
+  position: relative;
+}
+
+.ShortLinkWindowRes {
+  background-color: lightblue;
+  border: 3px solid black;
+  border-radius: 5%;
+  width: 800px;
+  height: 130px;
+  position: absolute;
+  top: 330px;
+  right: 0;
+  bottom: 60px;
+  left: 0;
+  margin: auto;
+}
+
+.LinkRes {
+  color: black;
+  font-size: 25px;
+  padding: 0 0 0 20px;
+  text-decoration: none;
+}
+
+.BtnRes {
+  left: 20px;
+}
+
+.ConteinerBtn {
+  display: flex;
+  width: 220px;
+  justify-content: space-between;
+}
+
+.Icon {
+  text-decoration: none;
+}
+
+.QRCode {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  right: 40px;
+  top: 15px;
+}
+
+.Links {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  top: 800px;
+  left: 520px;
+}
+

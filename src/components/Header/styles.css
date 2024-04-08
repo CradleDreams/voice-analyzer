@@ -1,0 +1,30 @@
+.Hat {
+  background-color: #70aaa9;
+  padding: 20px;
+  position: absolute;
+  right: 0;
+  top: 0;
+  left: 0;
+}
+
+.HatFlex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.logoHat {
+  background-color: black;
+  color: #fff;
+  font-weight: 700;
+  line-height: 35px;
+  text-transform: uppercase;
+  letter-spacing: 0.15px;
+  border-radius: 5px;
+  padding: 0 10px;
+  text-decoration: none;
+
+}
+
+.HeaderButtom {
+  margin-left: 30px;
+}

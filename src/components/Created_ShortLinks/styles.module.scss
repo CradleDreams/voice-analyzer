@@ -1,0 +1,39 @@
+.ShortLinkWindowRes {
+  background-color: lightblue;
+  border: 3px solid black;
+  border-radius: 5%;
+  width: 800px;
+  height: 130px;
+  top: 900px;
+}
+
+.LinkRes {
+  color: black;
+  font-size: 25px;
+  padding: 0 0 0 20px;
+  text-decoration: none;
+}
+
+.BtnRes {
+  left: 20px;
+}
+
+.ConteinerBtn {
+  display: flex;
+  width: 220px;
+  justify-content: space-between;
+}
+
+.Icon {
+  text-decoration: none;
+}
+
+.root {
+  background-color: lightblue;
+  border: 3px solid black;
+  border-radius: 5%;
+  width: 400px;
+  height: 140px;
+  top: 900px;
+  margin-bottom: 10px;
+}
